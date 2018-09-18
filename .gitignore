@@ -70,3 +70,17 @@ atlassian*
 /generated/*
 !/generated/.htaccess
 .DS_Store
+.github/
+.htaccess
+.htaccess.sample
+.php_cs.dist
+.travis.yml
+.user.ini
+CHANGELOG.md
+COPYING.txt
+Gruntfile.js.sample
+LICENSE.txt
+LICENSE_AFL.txt
+LICENSE_EE.txt
+README_EE.md
+
